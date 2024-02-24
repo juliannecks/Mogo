@@ -1,0 +1,151 @@
+.company-logo{
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37px;
+    letter-spacing: 0em;
+    color: #95E1D3;
+    text-decoration: none;
+}
+
+body{
+    font-family: Montserrat;
+}
+
+.nav-list-link{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    color: #95E1D3;
+}
+
+.nav-list-link:hover{
+    color: #F38181;
+}
+
+.nav-list{
+    list-style: none;
+}
+
+.hero-title-first{
+    font-family: Kaushan Script;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    color: #333333;
+}
+
+.hero-title-second{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37px;
+    letter-spacing: 0em;
+    color: #333333;
+}
+
+.benefits-list-title{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.benefits-list-text{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: #B6B6B6;
+}
+
+.benefits-list{
+    list-style: none;
+}
+
+.info-block-first-title{
+    font-family: Kaushan Script;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    color: #333333;
+}
+
+.info-block-second-title{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37px;
+    letter-spacing: 0em;
+    color: #333333;
+}
+
+.info-block-text{
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    color: #B6B6B6;
+}
+
+.men-list{
+    list-style: none;
+}
+
+.men-list-title{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    color: #333333;
+}
+
+.men-list-text{
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 18px;
+    letter-spacing: 0em;
+    color: #B6B6B6;    
+}
+
+.footer-text{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    color: #333333;
+}
+
+.footer-text-name{
+    color: #F38181;
+}
+
+.form-input{
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0em;
+    color: #B6B6B6;
+}
+
+.form-btn{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    background-color: #95E1D3;
+    border: none;
+}
