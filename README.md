@@ -1,2 +1,1 @@
 # Mogo
-# MoGo-company
